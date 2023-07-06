@@ -22,8 +22,7 @@ app = Flask(__name__)
 
 
 # # ChatGPT API endpoint
-# CHATGPT_API_URL = 'https://api.openai.com/v1/engines/davinci-codex/completions'
-# CHATGPT_API_KEY = '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'  
+# CHATGPT_API_URL = 'https://api.openai.com/v1/engines/davinci-codex/completions'  
 
 
 # @app.route('/api/extract-information', methods=['POST'])
